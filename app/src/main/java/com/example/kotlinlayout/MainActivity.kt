@@ -1,6 +1,5 @@
 package com.example.kotlinlayout
 
-import android.content.DialogInterface
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.Gravity
@@ -49,9 +48,9 @@ class MainActivity : AppCompatActivity() {
 
         linearLayout.addView(button)
 
-        button.setOnClickListener {
-            val id = radioGroup.checkedRadioButtonId
-            val radiotext = radioGroup.findViewById<RadioButton>(id).text.toString()
+        button.setOnClickListener {     // Buttonがクリックされた時
+            val id: Int = radioGroup.checkedRadioButtonId
+            val radiotext: String = radioGroup.findViewById<RadioButton>(id).text.toString()
 
             val builder = AlertDialog.Builder(this@MainActivity)
             builder

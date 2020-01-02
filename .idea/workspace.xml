@@ -8,6 +8,8 @@
   <component name="ChangeListManager">
     <list default="true" id="87621eb2-34b8-47b7-89ac-a47bc320082d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../OpenAIGymを強化学習で攻略しまくろう！[環境構築編]/OpenAIGymを強化学習で攻略しまくろう！[環境構築編].md" beforeDir="false" afterPath="$PROJECT_DIR$/../../OpenAIGymを強化学習で攻略しまくろう！[環境構築編]/OpenAIGymを強化学習で攻略しまくろう！[環境構築編].md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/kotlinlayout/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/kotlinlayout/MainActivity.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../デュアルブートのすすめ[実践編]/デュアルブートのすすめ[実践編].md" beforeDir="false" afterPath="$PROJECT_DIR$/../../デュアルブートのすすめ[実践編]/デュアルブートのすすめ[実践編].md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../デュアルブートのすすめ[概要編]/デュアルブートのすすめ[概要編].md" beforeDir="false" afterPath="$PROJECT_DIR$/../../デュアルブートのすすめ[概要編]/デュアルブートのすすめ[概要編].md" afterDir="false" />
     </list>
@@ -39,8 +41,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/kotlinlayout/MainActivity.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="517">
-              <caret line="57" column="38" selection-start-line="57" selection-start-column="38" selection-end-line="57" selection-end-column="38" />
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <folding>
+                <element signature="e#34#239#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -58,7 +63,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -178,6 +183,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="not.eligible.for.single.variant.sync" value="true" />
@@ -274,7 +280,7 @@
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32962757" />
+      <window_info content_ui="combo" id="Project" visible="true" weight="0.32962757" />
       <window_info id="Structure" side_tool="true" />
       <window_info id="Build Variants" side_tool="true" />
       <window_info id="Image Layers" />
@@ -289,9 +295,9 @@
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="Android Profiler" />
       <window_info anchor="bottom" id="Debug" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32967034" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" visible="true" weight="0.33076924" />
+      <window_info anchor="bottom" id="Build" weight="0.33076924" />
       <window_info anchor="right" id="Device File Explorer" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Gradle" />
@@ -311,8 +317,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/kotlinlayout/MainActivity.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="57" column="38" selection-start-line="57" selection-start-column="38" selection-end-line="57" selection-end-column="38" />
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#34#239#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
